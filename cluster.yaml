@@ -1,0 +1,7 @@
+__default__:
+  project: acc_LOAD
+  partition: bode
+  queue: premium
+  cores: 1
+  mem: 5200
+  time: '48:00'
